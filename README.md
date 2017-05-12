@@ -1,3 +1,3 @@
 # degree_thesis
-Degree thesis source
-My degree thesis project.
+
+My degree thesis project. Create project Java EE programming language.
